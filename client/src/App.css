@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+/* fonts.google.com can be used with link or import
+Don't forget to add font-family! */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Sigmar', cursive;
+}
